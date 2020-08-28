@@ -1,0 +1,37 @@
+#row1, #row2, #row3, #row4 {
+    text-align: center;
+    background-color: rgb(252, 252, 237);
+}
+
+#row3 {
+    align-content: center;
+    padding-top:50px;
+    padding-bottom: 50px;
+}
+
+p {
+    font-size: 30px;
+}
+
+.deck1 {
+    display: inline-block;
+    position: relative;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+.plus1-1 {
+    position: absolute;
+    display: none;
+}
+
+.plus1-2 {
+    position: absolute;
+    display: none;
+}
+
+#player1, #player2 {
+    position: absolute;
+}
